@@ -1,6 +1,5 @@
-//bees.pde file below
-
-var bees = []; var flowers = [];
+var bees = [];
+var flowers = [];
 
 void setup() {
 	size(400, 400);
